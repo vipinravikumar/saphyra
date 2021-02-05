@@ -1,4 +1,5 @@
 # ----------------------------------------------------------------------------------------------
+#bit.ly/SUDOBYTE
 # Saphyra - iDDoS Priv8 Tool
 #this script is only educational purposes
 # The iDDoS Protocol is the most massive type of attack
